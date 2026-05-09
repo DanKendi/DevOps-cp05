@@ -1,0 +1,3 @@
+br\com\fiap\checkPoint05\CheckPoint05Application.class
+br\com\fiap\checkPoint05\config\OpenApiConfig.class
+br\com\fiap\checkPoint05\controller\HealthController.class
